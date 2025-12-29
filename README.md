@@ -1,6 +1,6 @@
 # Event Hub API – Desafio Técnico Backend
 
-API REST para normalização, consulta e estatísticas de eventos fictícios.
+API REST para normalização, consulta e estatísticas de eventos fictícios de jogos.
 
 ## Bônus
 - SoloClear.
@@ -11,6 +11,5 @@ cd app
 pip install -r requirements.txt
 python -m uvicorn main:app --reload
 
-## Como testar
 
 Acesse http://localhost:8000/docs
